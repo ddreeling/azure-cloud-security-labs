@@ -29,4 +29,15 @@ Enabled Microsoft Defender for Cloud and reviewed recommendations.
 - Defender for Cloud helps identify security gaps quickly.
 
 ## Evidence
-See screenshots in this folder.
+
+### VM Deployment
+![VM Deployment](vm-deployment.png)
+
+### NSG Rule
+![NSG Rule](nsg-rule.png)
+
+### RBAC Reader Role
+![RBAC](rbac-reader-role.png)
+
+### Defender Recommendations
+![Defender](defender-recommendations.png)
